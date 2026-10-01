@@ -1,0 +1,6 @@
+transformers==4.36.0
+torch==2.2.0
+pymupdf==1.23.8
+textstat==0.7.3
+streamlit==1.29.0
+requests==2.31.0
